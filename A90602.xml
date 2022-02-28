@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the officers and souldiers in the army, under the command of His Excellency Sr. Thomas Fairfax, vvith the severall votes of the councell of war at Saffron-Walden, concerning the armies going into Ireland: with the names of every officer then present. Together with a letter from His Excellency, to the House of Commons, concerning the said petition.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90602</idno>
+            <idno type="STC">Wing P1825</idno>
+            <idno type="STC">Thomason E383_12</idno>
+            <idno type="STC">ESTC R201434</idno>
+            <idno type="EEBO-CITATION">99861945</idno>
+            <idno type="PROQUEST">99861945</idno>
+            <idno type="VID">160180</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160180)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E383[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the officers and souldiers in the army, under the command of His Excellency Sr. Thomas Fairfax, vvith the severall votes of the councell of war at Saffron-Walden, concerning the armies going into Ireland: with the names of every officer then present. Together with a letter from His Excellency, to the House of Commons, concerning the said petition.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert White,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>April 2. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Items are dated 21-30 March, 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160180:1" rendition="simple:additions"/>
+            <p>THE PETITION Of the OFFICERS and Souldiers in the Army, under the Command of His EXCELLENCY</p>
+            <p>S<hi rend="sup">r</hi>. Thomas Fairfax, VVith the ſeverall Votes of the <hi>Councell Of War</hi> at <hi>Saffron-Walden,</hi> concerning the Armies going into <hi>IRELAND:</hi> With the names of every Officer then preſent.</p>
+            <p>
+               <hi>Together with</hi> A Letter from His Excellency, to the Houſe of Commons, concerning the ſaid Petition.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert White,</hi> April 2. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160180:2"/>
+            <pb facs="tcp:160180:2"/>
+            <head>To His Excellency, Sir <hi>Thomas Fairfax,</hi> Generall <hi>Of the PARLIAMENTS Forces.</hi>
+            </head>
+            <head type="sub">The humble Petition of the Officers and Souldiers of the Army under your Command.</head>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat ever ſince our firſt ingaging in this ſervice, for pre<g ref="char:EOLhyphen"/>ſerving the power of this Kingdome in the hands of the Parliament; we have in our ſeverall places ſerved them with all faithfulneſs. And although we have layn under many diſcouragements for want of pay, and other ne<g ref="char:EOLhyphen"/>ceſſaries; yet have we not diſputed their commands, diſ<g ref="char:EOLhyphen"/>obeyed their orders, nor diſturbed them with Petitions; nor have there any viſible diſcontents appeared amongſt us to the incou<g ref="char:EOLhyphen"/>ragement of their enemies, and the impediment of their affaires; but have with all chearfulneſs done Summer ſervices in Winter ſeaſons, improving the utmoſt of our abilities in the advancement of their ſervice: And ſee<g ref="char:EOLhyphen"/>ing God hath crowned our indeavours, with the end of our deſires, <hi>(viz.</hi> the diſperſing of their publike enemies, and reducing them to their obe<g ref="char:EOLhyphen"/>dience.) The King being now brought in, our Brethren the Scots ſatisfied, and departed the Kingdome; all dangers ſeemingly blown over, and Peace in all their Quarters: We (imboldned by their manifold promiſes, and Declarations, to protect and defend thoſe that appeared, and acted in their ſervice) herewith humbly preſent to your Excellencie, the annexed Repreſentations of our deſires; which we humbly beſeech your Excellen<g ref="char:EOLhyphen"/>cie to recommend, or repreſent in our behalfs to the Parliament.</p>
+            <closer>
+               <hi>And your Petitioners ſhall ever Honour and Pray for your Excellency,</hi> &amp;c.</closer>
+         </div>
+         <div type="part">
+            <head>The humble Repreſentation of the Deſires of the Officers and Souldiers of the Army un<g ref="char:EOLhyphen"/>der the Command of his Excellency Sir <hi>Thomas Fairfax,</hi> Preſented firſt to his Excel<g ref="char:EOLhyphen"/>lency, to be by him repreſented to the Parliament.</head>
+            <p n="1">1. <hi>FIrſt, whereas the neceſſitie and exigencie of the War, hath put us upon many actions, which the Law would not warrant, nor we have acted in a time of ſettled Peace; we humbly deſire, that before our disbanding, a full and ſufficient proviſion may be made by Ordinance of Parliament (to which the Royall aſſent may be deſired) for our indempnity and ſecurity in all ſuch caſes.</hi>
+            </p>
+            <p n="2">2. <hi>That Auditors or Commiſſioners may be ſpeedily appointed and autho<g ref="char:EOLhyphen"/>rized, to repair to the head-quarter of this Army, to andite and ſtate our ac<g ref="char:EOLhyphen"/>compts,
+<pb facs="tcp:160180:3"/>as well for all former ſervices, as for our ſervices in this Army; and that before the disbanding of the Army, ſatisfaction may be given to the Peti<g ref="char:EOLhyphen"/>tioners for their arrears, that ſo the charge, trouble, and loſs of time, which we muſt otherwiſe neceſſarily undergo, in attendance for the obtaining of them, may be prevented; we having had experience, that many have been reduced to miſerable extremities, even almoſt ſtarved for want of reliefe, by their tedious attendance. And that no Officer may be charged with any thing in his ac<g ref="char:EOLhyphen"/>compt, that doth not particularly concern himſelf.</hi>
+            </p>
+            <p n="3">3. <hi>That thoſe who have voluntarily ſerved the Parliament in the late Wars, may not hereafter be compelled by preſs or otherwiſe to ſerve as ſouldiers out of this Kingdome: Nor thoſe who have ſerved as Horſemen, may be com<g ref="char:EOLhyphen"/>pelled by preſs to ſerve on foot, in any future caſe.</hi>
+            </p>
+            <p n="4">4. <hi>That ſuch in this Army as have loſt their limbs, and the wives and children of ſuch as have been ſlain in the ſervice, and ſuch Officers or ſouldi<g ref="char:EOLhyphen"/>ers as have ſuſtained loſſes, or have been prejudiced in their eſtates, by adhere<g ref="char:EOLhyphen"/>ing to the Parliament; or in their perſons by ſickneſs or impriſonment under the Enemy, may have ſuch allowances and ſatisfaction, as may be agreeable to Juſtice and equity.</hi>
+            </p>
+            <p n="5">5. <hi>That till the Army be disbanded as aforeſaid, ſome courſe may be taken for the ſupply thereof with moneys, whereby we may be enabled to diſcharge our Quarters, that ſo we may not for neceſſary food be beholding to the Parlia<g ref="char:EOLhyphen"/>ments enemies, burthenſome to their friends, or oppreſſive to the country; whoſe preſervation we have always indeavoured, and in whoſe happineſs we ſhould ſtill rejoyce.</hi>
+            </p>
+         </div>
+         <div type="list">
+            <head>The Officers preſent at the Debates following.</head>
+            <list>
+               <head>Viz.</head>
+               <item>
+                  <hi>Lieut. Gen.</hi> Hamond.</item>
+               <item>
+                  <hi>Commiſſary</hi> Ireton.</item>
+               <item>
+                  <hi>Coll.</hi> Hamond.</item>
+               <item>
+                  <hi>Coll.</hi> Harley.</item>
+               <item>
+                  <hi>Coll.</hi> Ingoldesby.</item>
+               <item>
+                  <hi>Coll.</hi> Whalley.</item>
+               <item>
+                  <hi>Coll.</hi> Forteſcue.</item>
+               <item>
+                  <hi>Coll.</hi> Rich.</item>
+               <item>
+                  <hi>Coll.</hi> Butler.</item>
+               <item>
+                  <hi>Coll.</hi> Hewſon.</item>
+               <item>
+                  <hi>Coll.</hi> Lilburne.</item>
+               <item>
+                  <hi>Coll.</hi> Okey,</item>
+               <item>
+                  <hi>Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut. Col.</hi> Jackſon.</item>
+               <item>
+                  <hi>Lieut. Colonell</hi> Pride.</item>
+               <item>
+                  <hi>Lieut. Col.</hi> Grimes.</item>
+               <item>
+                  <hi>Major</hi> Fincher.</item>
+               <item>
+                  <hi>Major</hi> Swallow.</item>
+               <item>
+                  <hi>Major</hi> Huntington.</item>
+               <item>
+                  <hi>Major</hi> Cowell.</item>
+               <item>
+                  <hi>Major</hi> Ducket.</item>
+               <item>
+                  <hi>Major</hi> Sedaſcue.</item>
+               <item>
+                  <hi>Major</hi> Waade.</item>
+               <item>
+                  <hi>Captain</hi> Brown.</item>
+               <item>
+                  <hi>Capt.</hi> Groves.</item>
+               <item>
+                  <hi>Capt.</hi> Lawrence.</item>
+               <item>
+                  <hi>Capt.</hi> Jenkins.</item>
+               <item>
+                  <hi>Capt.</hi> Morgan.</item>
+               <item>
+                  <hi>Capt.</hi> Farre.</item>
+               <item>
+                  <hi>Capt.</hi> Goff.</item>
+               <item>
+                  <hi>Capt.</hi> Reynolds.</item>
+               <item>
+                  <hi>Capt.</hi> Nevill.</item>
+               <item>
+                  <hi>Capt.</hi> Pretty.</item>
+               <item>
+                  <hi>Capt.</hi> Ohara.</item>
+               <item>
+                  <hi>Capt.</hi> Leigh.</item>
+               <item>
+                  <hi>Capt.</hi> Coleman.</item>
+               <item>
+                  <hi>Capt.</hi> Young.</item>
+               <item>
+                  <hi>Capt.</hi> Cannon.</item>
+               <item>
+                  <hi>Capt.</hi> Wallington.</item>
+               <item>
+                  <hi>Capt. Lieut.</hi> Audley.</item>
+               <item>
+                  <hi>Capt. Lieut.</hi> Gladman.</item>
+               <item>
+                  <hi>Capt.</hi> Lagoe.</item>
+               <item>
+                  <hi>Lieut.</hi> Lloyde.</item>
+               <item>
+                  <hi>Lieut.</hi> Scottin.</item>
+               <item>
+                  <hi>Cornet</hi> Spencer.</item>
+            </list>
+            <div type="part">
+               <pb facs="tcp:160180:3"/>
+               <head>At the Convention of Officers before his Excellency Sir <hi>Tho: Fairfax</hi> at <hi>Saffron-Walden,</hi> March 21. 1646.</head>
+               <p>THe two Letters from the Committee of Lords and Commens for Iriſh affairs ſitting at <hi>Derby</hi>-houſe, the one dated the 17. the other the 18. of <hi>March</hi> inſtant, and the ſeverall Votes of the Houſe of Commons there incloſed, concerning the ſending of ſeven Regiments of Foot and four Regiments of Horſe out of this Army into <hi>Ireland</hi> for the ſervice of that Kingdom, were read: Whereupon his Excellency, propoſed unto the Officers this Queſtion enſuing: <hi>viz.</hi>
+               </p>
+               <p>Queſt. <hi>Whether they were willing, with thoſe under their Commands, to ingage for the ſervice of</hi> Ireland <hi>in the number of Horſe, Foot, and Dragoons, now propoſed to be ſent?</hi>
+               </p>
+               <p>In order to which, after ſome debate, the firſt <hi>Quaerie</hi> propounded amongſt the Officers, was:</p>
+               <p n="1">1. <hi>Whether they were prepared, at preſent, to give a certain reſolution to that Queſtion?</hi>
+               </p>
+               <p>Reſolved, Negatively <hi>(Nemine contradicente.)</hi>
+               </p>
+               <p n="2">2. It was reſolved, and declared by all: That whether they ſhall finde cauſe to ingage themſelves perſonally in that ſervice or no, they ſhall in their ſeverall places be ready to further, and advance it, amongſt thoſe un<g ref="char:EOLhyphen"/>der their reſpective commands.</p>
+               <p>Next there were ſeveral things propounded by ſeverall Officers, where<g ref="char:EOLhyphen"/>in ſatisfaction was deſired, before they could give their certain reſolution to the main Queſtion; which were theſe:</p>
+               <p n="1">1. To know, what particular Regiments, Troops, or Companies of this Army, are to be continued in ſervice in this Kingdom.</p>
+               <p n="2">2. To know under whoſe Conduct and Command in chief, thoſe that engage for <hi>Ireland</hi> are to go?</p>
+               <p n="3">3. What aſſurance there ſhall be of pay, and ſubſiſtnece, to thoſe that ſhall ingage in this ſervice for <hi>Ireland,</hi> during their continuance therein?</p>
+               <p n="4">4. To have ſatisfaction in point of Arrears, and indempnity, for the paſt ſervice in <hi>England?</hi>
+               </p>
+               <p>Upon each of theſe, this Queſtion was put to every Officer di<g ref="char:EOLhyphen"/>ſtinctly.</p>
+               <p>Queſt. <hi>Whether is this a thing wherein you deſire ſatisfaction before you can give a certain Reſolution to ingage in the ſervice propoſed?</hi>
+               </p>
+               <pb facs="tcp:160180:4"/>
+               <p>Which Queſtion, upon the third, and fourth Propoſitions, was reſolved affirmatively, <hi>(Nemine contradicente.)</hi>
+               </p>
+               <p>Upon the ſecond it was reſolved affirmatively by all, except Colonell <hi>Harley,</hi> Coll. <hi>Forteſcue,</hi> Coll. <hi>Butler,</hi> Major <hi>Fincher,</hi> Lieut. Colonell <hi>Jackson,</hi> Capt. <hi>Farre,</hi> and Capt. <hi>Nevill.</hi>
+               </p>
+               <p>Upon the firſt it was reſolved affirmatively by all, except the perſons laſt mentioned, and Coll. <hi>Rich,</hi> Major <hi>Ducket,</hi> Capt. <hi>Ohara,</hi> Capt. <hi>Audley,</hi> and Captain <hi>Young.</hi>
+               </p>
+               <p>Laſtly, Thoſe that were affirmative to the deſiring of ſatisfaction in the firſt Propoſition: <hi>viz.</hi>
+               </p>
+               <p>To know what particular Regiments, Troops, or Companies of this Army are to be continued in ſervice in this Kingdom: did declare,</p>
+               <p>That this was deſired, partly to this end; That in giving the reſolution to the main Queſtion, none that are not deſigned to ſtay in <hi>England</hi> may be withheld from engaging for <hi>Ireland</hi> by any ſecret expectation to be continued in <hi>England:</hi> And partly to the end, that thoſe who ſhall engage, the rather upon confidence of having the Company of ſuch as do agree with them in the ſame conditions, may not be deceived in that par<g ref="char:EOLhyphen"/>ticular.</p>
+            </div>
+         </div>
+         <div type="list">
+            <head>
+               <hi>At a ſecond Convention of Officers at the deſire of Sir</hi> William Waller, <hi>and the reſt of the Commiſſioners at</hi> Saffron-Walden: <hi>His Excellency being preſent,</hi> Monday <hi>March</hi> 22. 1646. And the reſults following.</head>
+            <list>
+               <head>Preſent,</head>
+               <item>
+                  <hi>Lieut. Gen.</hi> Hamond.</item>
+               <item>
+                  <hi>Com. General</hi> Ireton.</item>
+               <item>
+                  <hi>Coll.</hi> Hamond.</item>
+               <item>
+                  <hi>Coll.</hi> Harley.</item>
+               <item>
+                  <hi>Coll.</hi> Whalley.</item>
+               <item>
+                  <hi>Coll.</hi> Rich.</item>
+               <item>
+                  <hi>Coll.</hi> Forteſcue.</item>
+               <item>
+                  <hi>Coll.</hi> Lilburne.</item>
+               <item>
+                  <hi>Coll.</hi> Okey.</item>
+               <item>
+                  <hi>Coll.</hi> Hewſon.</item>
+               <item>
+                  <hi>Lieut. Coll.</hi> Pride.</item>
+               <item>
+                  <hi>Lieut. Coll.</hi> Grimes.</item>
+               <item>
+                  <hi>Lieut. Coll.</hi> Jackſon.</item>
+               <item>
+                  <hi>Major</hi> Swallow.</item>
+               <item>
+                  <hi>Major</hi> Huntington.</item>
+               <item>
+                  <hi>Major</hi> Cowell.</item>
+               <item>
+                  <hi>Major</hi> Sedaſcue.</item>
+               <item>
+                  <hi>Major</hi> Waade.</item>
+               <item>
+                  <hi>Capt.</hi> Brown.</item>
+               <item>
+                  <hi>Capt.</hi> Groves.</item>
+               <item>
+                  <hi>Capt.</hi> Lawrence.</item>
+               <item>
+                  <hi>Capt.</hi> Jenkins.</item>
+               <item>
+                  <hi>Capt.</hi> Morgan.</item>
+               <item>
+                  <hi>Capt.</hi> Farre.</item>
+               <item>
+                  <hi>Capt.</hi> Goff.</item>
+               <item>
+                  <hi>Capt.</hi> Lagoe.</item>
+               <item>
+                  <hi>Capt.</hi> Gladman.</item>
+               <item>
+                  <hi>Capt.</hi> Nevill.</item>
+               <item>
+                  <hi>Capt.</hi> Pretty.</item>
+               <item>
+                  <hi>Capt.</hi> Ohara.</item>
+               <item>
+                  <hi>Capt.</hi> Leigh.</item>
+               <item>
+                  <hi>Capt.</hi> Audley.</item>
+               <item>
+                  <hi>Capt.</hi> Coleman.</item>
+               <item>
+                  <hi>Capt.</hi> Cannon.</item>
+               <item>
+                  <hi>Capt.</hi> Wallington.</item>
+               <item>
+                  <hi>Capt.</hi> Young.</item>
+               <item>
+                  <hi>Lieut.</hi> Scottin.</item>
+               <item>
+                  <hi>Lieut.</hi> Lloyde.</item>
+            </list>
+            <div type="part">
+               <pb facs="tcp:160180:4"/>
+               <p>At the deſire of the Commiſſioners, who now produced the Votes of the Houſe of Commons of the 16. of <hi>March,</hi> concerning the raiſing of 60000. l. <hi>per</hi> moneth, towards the payment of the Forces in <hi>England</hi> and <hi>Ireland,</hi> the ſame were read unto the Officers, and after ſome debate, this Queſtion was propoſed to every Officer diſtinctly.</p>
+               <p>
+                  <hi>Whether upon the Votes and Reſolutions of the Houſe of Commons, now read, or any other conſideration, do you finde cauſe to alter or recede from the third Quaere yeſterday reſolved on, concerning aſſurance of pay, and ſubſiſtance?</hi> It was reſolved in the Negative by all, except, Col. <hi>Harley,</hi> Col. <hi>Forteſcue,</hi> and Capt. <hi>Young.</hi>
+               </p>
+               <p>The ſame Queſtion being propoſed concerning the fourth Article, <hi>viz.</hi> To have ſatisfaction in payment of Arrears, and indempnity, &amp;c.</p>
+               <p>Reſolved in the Negative by all, except Captain <hi>Young.</hi>
+               </p>
+               <p>The like Queſtion being propoſed, concerning the firſt <hi>Quaerie</hi> to know what particular Regiments, Troops, or Companies of this Army are to be continued in ſervice in this Kingdom.</p>
+               <p>It paſt likewiſe in the Negatives, all referring to the ſeverall Votes up<g ref="char:EOLhyphen"/>on the ſame, yeſterday delivered.</p>
+               <p>There being ſeverall Officers now preſent, who were not here yeſter<g ref="char:EOLhyphen"/>day at the debates, <hi>viz.</hi>
+               </p>
+               <p>Captain <hi>Rainborow,</hi> Capt. <hi>Perſons,</hi> Capt. <hi>Rawlins,</hi> Capt. <hi>Muskett,</hi> Capt. <hi>Biſcoe,</hi> Capt. <hi>Wolfe,</hi> Capt. <hi>Kirby.</hi>
+               </p>
+               <p>The ſeverall Votes of the Houſe of Commons, concerning the ſending ſeven Regiments of Foot, and of Horſe into <hi>Ireland</hi> was read unto them, as alſo the Votes of the Houſe, concerning the raiſing of 60000. l. <hi>per</hi> moneth, towards the maintenance of the forces in <hi>England</hi> and <hi>Ireland,</hi> the ſame Queſtion and <hi>Quaeries</hi> thereupon, which were yeſterday pro<g ref="char:EOLhyphen"/>pounded, were now propoſed to the ſaid laſt mentioned Officers ſeverally, and each Officer by himſelf, declared his Vote to the firſt Queſtion, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Whether they were now prepared to give their reſolution; Negative, and to all the reſt affirmative.</hi>
+               </p>
+               <p>Captain <hi>Young</hi> coming in, declared, That he receded from theſe things, wherein yeſterday he concurred to deſire ſatisfaction, and reſolves upon the main Queſtion, that he will ingage with as many of his Souldiers as he can get.</p>
+               <p>Capt. <hi>Dennizon,</hi> Capt. <hi>Buſhell,</hi> Capt. <hi>Cox,</hi> and Capt. <hi>Pooley</hi> of Colo<g ref="char:EOLhyphen"/>nell <hi>Forteſcues</hi> Regiment, declare the ſame reſolution with Captain <hi>Young.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:160180:5"/>
+            <head>A Letter from the Generall to Mr. Speaker.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received your Letter dated the 27. of this Inſtant, with an encloſed order from the Houſe of Commons, for the making ſtop of the fur<g ref="char:EOLhyphen"/>ther proceed in a Petition, which the Houſe was informed, was carrying on the in Army: In obedience to which, I ſent out orders to the Officers of the Regiments quartering in theſe parts of the Kingdome, to meet at my quarters, that I might enquire into the whole matter, and take ſuch courſe as might moſt effectually conduce unto the accompliſh<g ref="char:EOLhyphen"/>ing your commands, where having communicated your Letter and orders to them, they did generally expreſs a very deep ſenſe of their un<g ref="char:EOLhyphen"/>happineſs, in being miſunderſtood in their clear intentions: which were no other, then by way of Petition to repreſent unto me thoſe inconveni<g ref="char:EOLhyphen"/>encies, which would neceſſarily befal moſt of the Army after disbanding; deſiring, That as much, as I ſhould judge ſit, and ſeaſonable, might be ſub<g ref="char:EOLhyphen"/>miſsively made known to the Houſe of Commons, which otherwiſe (your multiplicity of buſineſſe intervening) might not be remembred: Aſſu<g ref="char:EOLhyphen"/>ring me, that they would wholly acquieſce, in whatſoever I ſhould judge reaſonable to offer, or you to grant on their behalf: I have alſo accord<g ref="char:EOLhyphen"/>ing to your commands ſent up Lieutenant Generall <hi>Hamond,</hi> Col. <hi>Ha<g ref="char:EOLhyphen"/>mond,</hi> Colonell <hi>Lilburn,</hi> Lieutenant Colonell <hi>Pride,</hi> and Lieut. Colonell <hi>Grimes,</hi> to attend the Houſes pleaſure: who I hope will give you (as f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r as they are acquainted therewith) a full and candid account of the whole proceedings in this Petition. Sir There is one clauſe in your Let<g ref="char:EOLhyphen"/>ter, concerning all the Regiments marching this way, which I do not underſtand, except it be meant by Sir <hi>Hardreſs Wallers</hi> Re<g ref="char:EOLhyphen"/>giment, which I have remanded away, at the inſtance of Major Generall, <hi>Skippon</hi> upon the grounds in his incloſed Letter, and Colonel <hi>Hamonds,</hi> and Colonel <hi>Herbets,</hi> now upon their march from <hi>Cheſter,</hi> being diſmiſt from that ſervice. Sir, I truſt the Army will ever manifeſt their affections to the Publike, by their conſtant perſeverance in their accuſtomed obedience unto all your commands; which ſhall be ever really endeavoured, by:</p>
+            <closer>
+               <dateline>
+                  <hi>VValden,</hi> 
+                  <date>
+                     <hi>March</hi> 30. 1647.</date>
+               </dateline> 
+               <hi>For the Honourable</hi> William Lenthall <hi>Eſquire, Speaker of the Honorable Houſe of Commons.</hi>
+               <signed>Your moſt humble Servant, <hi>Tho: Fairfax.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
